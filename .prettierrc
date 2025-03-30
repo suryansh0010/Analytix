@@ -14,7 +14,7 @@
       {
         "files": "*.html",
         "options": {
-          "bracketSameLine": true,
+          "bracketSameLine": true, 
           "singleAttributePerLine": false
         }
       }
